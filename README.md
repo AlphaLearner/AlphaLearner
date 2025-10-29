@@ -4,8 +4,10 @@
   <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="50%" align="right">
 </p>
 
-# Hi, I'm Attipalli Sai Prasanth Reddy 👨🏿‍💻 
-A passionate **Full-Stack Python Developer** building intelligent, scalable, and data-driven systems powered by AI and automation.
+<h1 align="center" style="color:#00ffff;">Hi, I'm Attipalli Sai Prasanth Reddy 👨🏿‍💻</h1>
+<p align="center">
+  <strong style="color:#00e0ff;">Full-Stack Python Developer</strong> — building intelligent, scalable, and data-driven systems powered by AI and automation.
+</p>
 
 - 🧠 Focused on combining **LLMs, FastAPI, and Next.js** to create next-gen full-stack solutions.  
 - 💬 Experienced in **LangChain, RAG pipelines, n8n workflows, and Weaviate vector search**.  
@@ -14,7 +16,7 @@ A passionate **Full-Stack Python Developer** building intelligent, scalable, and
 
 ---
 
-## 💫 About Me  
+<h2 style="color:#00e0ff;">💫 About Me</h2>
 
 🔭 **I’m currently working on:**  
 Building full-stack AI-powered applications using Python, FastAPI, and Next.js — integrating LangChain, RAG pipelines, and vector search systems for intelligent automation.  
@@ -36,7 +38,7 @@ I love transforming raw ideas into functional, scalable web applications that co
 
 ---
 
-## 🌐 Connect With Me  
+<h2 style="color:#00ffff;">🌐 Connect With Me</h2>
 
 <p align="center">
   <a href="https://x.com/prasanth_reddy_?t=4XqvNKD09EQqN-Snjg5DQw&s=09">
@@ -55,7 +57,7 @@ I love transforming raw ideas into functional, scalable web applications that co
 
 ---
 
-## 🧩 LeetCode & GitHub Stats  
+<h2 style="color:#00e0ff;">🧩 LeetCode & GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alphalearner&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="170" />
@@ -64,7 +66,7 @@ I love transforming raw ideas into functional, scalable web applications that co
 
 ---
 
-# 💻 Tech Stack  
+<h2 style="color:#00ffff;">💻 Tech Stack</h2>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
@@ -85,7 +87,7 @@ I love transforming raw ideas into functional, scalable web applications that co
 
 ---
 
-# 📈 Additional GitHub Insights  
+<h2 style="color:#00e0ff;">📈 Additional GitHub Insights</h2>
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=alphalearner&theme=dark&hide_border=false" height="160" />

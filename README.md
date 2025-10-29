@@ -45,10 +45,11 @@ I love transforming raw ideas into functional, scalable web applications that co
 
 ---
 
-### 🧩 LeetCode Stats  
+## 🧩 LeetCode & GitHub Stats  
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/prasanth204?theme=dark&font=Baloo%202&ext=contest" alt="LeetCode Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=alphalearner&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="170" />
+  <img src="https://leetcard.jacoblin.cool/prasanth204?theme=dark&font=Baloo%202&ext=contest" height="170" />
 </p>
 
 ---
@@ -74,11 +75,12 @@ I love transforming raw ideas into functional, scalable web applications that co
 
 ---
 
-# 📊 GitHub Stats  
+# 📈 Additional GitHub Insights  
 
-![](https://github-readme-stats.vercel.app/api?username=alphalearner&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=alphalearner&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alphalearner&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=alphalearner&theme=dark&hide_border=false" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphalearner&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="160" />
+</p>
 
 ---
 

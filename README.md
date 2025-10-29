@@ -20,35 +20,55 @@ A passionate **Full-Stack Python Developer** building intelligent, scalable, and
 Building full-stack AI-powered applications using Python, FastAPI, and Next.js — integrating LangChain, RAG pipelines, and vector search systems for intelligent automation.  
 
 🤝 **I’m looking to collaborate on:**  
-End-to-end web development projects, backend system design, API development, and AI integration for scalable, data-driven platforms.  
+End-to-end web development projects, backend system design, API development, and AI integration for scalable platforms.  
 
 💡 **I’m looking for help with:**  
-Optimizing frontend-backend communication, advanced CI/CD pipelines, and deploying AI-driven applications to cloud environments like AWS or GCP.  
+Optimizing frontend-backend communication, advanced CI/CD pipelines, and cloud deployment on AWS or GCP.  
 
 🌱 **I’m currently learning:**  
-Next.js, React, Docker, Kubernetes, LangGraph, and advanced system architecture for production-ready AI and web solutions.  
+Next.js, React, Docker, Kubernetes, LangGraph, and advanced system architecture for production-ready AI solutions.  
 
 💬 **Ask me about:**  
-Python backend development, RESTful APIs, database design, AI agents, RAG search, and integrating LLMs into real-world web apps.  
+Python backend development, RESTful APIs, database design, AI agents, RAG search, and LLM integration in web apps.  
 
 ⚡ **Fun fact:**  
-I love transforming raw ideas into functional, scalable web applications that combine clean code, automation, and intelligent design. 🚀  
+I love turning raw ideas into functional, scalable web applications that blend clean code, automation, and intelligent design. 🚀  
 
 ---
 
 ## 🌐 Connect With Me  
 
-<p align="center">
-  <a href="https://x.com/prasanth_reddy_?t=4XqvNKD09EQqN-Snjg5DQw&s=09">
+<style>
+.badge-container a img {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  margin: 12px 25px;
+}
+.badge-container a img:hover {
+  transform: scale(1.12);
+  box-shadow: 0px 0px 15px rgba(0, 255, 153, 0.6);
+}
+.stats-container img {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  border-radius: 8px;
+  margin: 8px;
+}
+.stats-container img:hover {
+  transform: scale(1.05);
+  box-shadow: 0px 0px 20px rgba(0, 255, 153, 0.4);
+}
+</style>
+
+<p align="center" class="badge-container">
+  <a href="https://x.com/prasanth_reddy_?t=4XqvNKD09EQqN-Snjg5DQw&s=09" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/attipalliprasanth">
+  <a href="https://www.linkedin.com/in/attipalliprasanth" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://substack.com/@saiattipalli">
+  <a href="https://substack.com/@saiattipalli" target="_blank">
     <img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/u/prasanth204/">
+  <a href="https://leetcode.com/u/prasanth204/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
 </p>
@@ -57,7 +77,7 @@ I love transforming raw ideas into functional, scalable web applications that co
 
 ## 🧩 LeetCode & GitHub Stats  
 
-<p align="center">
+<p align="center" class="stats-container">
   <img src="https://github-readme-stats.vercel.app/api?username=alphalearner&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="170" />
   <img src="https://leetcard.jacoblin.cool/prasanth204?theme=dark&font=Baloo%202&ext=contest" height="170" />
 </p>
@@ -87,7 +107,7 @@ I love transforming raw ideas into functional, scalable web applications that co
 
 # 📈 Additional GitHub Insights  
 
-<p align="center">
+<p align="center" class="stats-container">
   <img src="https://nirzak-streak-stats.vercel.app/?user=alphalearner&theme=dark&hide_border=false" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphalearner&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="160" />
 </p>

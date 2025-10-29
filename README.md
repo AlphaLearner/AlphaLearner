@@ -45,6 +45,14 @@ I love transforming raw ideas into functional, scalable web applications that co
 
 ---
 
+### 🧩 LeetCode Stats  
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/prasanth204?theme=dark&font=Baloo%202&ext=contest" alt="LeetCode Stats"/>
+</p>
+
+---
+
 # 💻 Tech Stack  
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
